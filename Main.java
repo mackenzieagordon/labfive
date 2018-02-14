@@ -6,6 +6,8 @@ public class Main {
 
         System.out.print("Enter a hexadecimal number: ");
         String hexInputt = scnr.nextLine();
+        //random comment
+        
 
 
         char spaceOne = 'a';
